@@ -17,3 +17,5 @@ https://docs.ruby-lang.org/en/3.4/Pathname.html
 
 التوثيق الخاص بـ `pathlib` من Python:  
 https://docs.python.org/3/library/pathlib.html
+
+والسلام عليكم 👋🏻
